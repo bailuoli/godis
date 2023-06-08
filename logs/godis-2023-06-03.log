@@ -1,0 +1,12 @@
+[INFO][server.go:42] 2023/06/03 10:54:36 bind: 0.0.0.0:6378, start listening...
+[INFO][server.go:79] 2023/06/03 10:55:23 accept link
+[INFO][echo.go:62] 2023/06/03 10:56:17 Conn close
+[INFO][server.go:79] 2023/06/03 10:56:19 accept link
+[INFO][echo.go:62] 2023/06/03 10:56:32 Conn close
+[INFO][server.go:58] 2023/06/03 10:56:33 get exit signal
+[INFO][server.go:64] 2023/06/03 10:56:33 shutting down
+[INFO][server.go:42] 2023/06/03 11:53:48 bind: 0.0.0.0:6378, start listening...
+[INFO][server.go:79] 2023/06/03 11:58:33 accept link
+[INFO][echo.go:62] 2023/06/03 11:59:27 Conn close
+[INFO][server.go:58] 2023/06/03 12:46:03 get exit signal
+[INFO][server.go:64] 2023/06/03 12:46:03 shutting down
